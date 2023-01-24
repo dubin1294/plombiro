@@ -2,14 +2,14 @@
   "name": "plombiro",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Ruslan-Karnaukh.github.io/plombiro",
+  "homepage": "https://dubin1294.github.io/plombiro",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /plombiro/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ruslan-Karnaukh/plombiro.git"
+    "url": "git+https://github.com/dubin1294/plombiro.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
