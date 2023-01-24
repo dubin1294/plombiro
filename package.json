@@ -15,7 +15,7 @@
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ruslan-Karnaukh/plombiro/issues"
+    "url": "https://github.com/dubin1294/plombiro/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
